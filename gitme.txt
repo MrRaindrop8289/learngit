@@ -1,2 +1,2 @@
-git test1.
-git is a software for programmer.
+git test2.
+git is a software for programmer and small.
