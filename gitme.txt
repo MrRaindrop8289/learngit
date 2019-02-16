@@ -1,2 +1,4 @@
 git test2.
 git is a software for programmer and small.
+git has a mutable index called stage.
+Why git is better than others?
